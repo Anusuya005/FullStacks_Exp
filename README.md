@@ -25,7 +25,7 @@ FullStack-Lab-Experiments/
 │       └── ...
 │
 ├── Exp 3/
-│   └── jwt-auth-demo/
-│       └── ...
+│   └── ...
+│ 
 │
 └── README.md
